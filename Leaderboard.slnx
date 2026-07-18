@@ -1,4 +1,5 @@
 <Solution>
+  <Folder Name="/Elementos de la solución/" />
   <Folder Name="/src/">
     <Project Path="src/Leaderboard.Api/Leaderboard.Api.csproj" />
     <Project Path="src/Leaderboard.Application/Leaderboard.Application.csproj" />
