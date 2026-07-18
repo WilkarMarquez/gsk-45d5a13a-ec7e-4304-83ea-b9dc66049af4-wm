@@ -1,5 +1,8 @@
 <Solution>
-  <Folder Name="/Elementos de la solución/" />
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.md" />
+    <File Path="SOLUTION.MD" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/Leaderboard.Api/Leaderboard.Api.csproj" />
     <Project Path="src/Leaderboard.Application/Leaderboard.Application.csproj" />
